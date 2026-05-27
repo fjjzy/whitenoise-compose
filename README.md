@@ -16,10 +16,10 @@
 ## 应用截图
 
 <p align="center">
-  <img src="docs/images/recommend.jpg" alt="推荐场景" width="320" />
-  <img src="docs/images/custom.jpg" alt="自选声音" width="320" />
-  <img src="docs/images/mixer.jpg" alt="混音调节" width="320" />
-  <img src="docs/images/create-scene.jpg" alt="新建场景" width="320" />
+  <img src="docs/images/recommend.jpg" alt="推荐场景" width="220" />
+  <img src="docs/images/custom.jpg" alt="自选声音" width="220" />
+  <img src="docs/images/mixer.jpg" alt="混音调节" width="220" />
+  <img src="docs/images/create-scene.jpg" alt="新建场景" width="220" />
 </p>
 
 ## 技术栈
