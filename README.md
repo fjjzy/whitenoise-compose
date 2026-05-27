@@ -13,6 +13,15 @@
 - **自定义内容**：支持导入本地音频、创建自定义场景、选择并裁切场景封面。
 - **状态恢复**：保存上次播放场景、自选声音、音量和页面状态。
 
+## 应用截图
+
+<p align="center">
+  <img src="docs/images/recommend.jpg" alt="推荐场景" width="220" />
+  <img src="docs/images/custom.jpg" alt="自选声音" width="220" />
+  <img src="docs/images/mixer.jpg" alt="混音调节" width="220" />
+  <img src="docs/images/create-scene.jpg" alt="新建场景" width="220" />
+</p>
+
 ## 技术栈
 
 - Kotlin
