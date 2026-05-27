@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android outputs
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Logs
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
